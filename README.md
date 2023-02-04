@@ -1,5 +1,5 @@
 # greenhouseUI
-###App for remote monitoring of the greenhouse
+### App for remote monitoring of the greenhouse
 
 #Objectives
 - To develop a remote monitoring system using the flutter framework
